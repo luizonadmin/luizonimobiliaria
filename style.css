@@ -37,3 +37,10 @@ a {
   border-radius: 4px;
   font-weight: bold;
 }
+.logo {
+  width: 350px !important;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+}
+
